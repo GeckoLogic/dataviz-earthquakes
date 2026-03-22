@@ -39,3 +39,5 @@ tmp_frames/
 *.swo
 .DS_Store
 Thumbs.db
+
+run.bat
